@@ -1,3 +1,3 @@
 ## Restaurant Website
 
-> Creating a dynamic website using PHP. 
+> Creating a dynamic restaurant website using PHP.
