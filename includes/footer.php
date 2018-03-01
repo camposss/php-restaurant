@@ -18,7 +18,7 @@
         Closed<br><br>
     </div>
 </div>
-        <small>&copy;2018 Christian Campos</small>
+        <small>&copy; <?php echo date('Y') ;?><? echo $company_name ?> </small>
     </div>
 </div>
 <div class="copyright-info">

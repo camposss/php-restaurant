@@ -1,8 +1,10 @@
-<?php include ('includes/arrays.php') ?>
+<?php 
+$company_name= " Franklin's Fine Dining";
+include ('includes/arrays.php'); ?>
 
 <!DOCTYPE html>
 <html>
-<title></title>
+<title> <?php echo TITLE; ?></title>
 <link rel="stylesheet" href="/assets/styles.css">
 
 <body id='final-example'>
